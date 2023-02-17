@@ -13,3 +13,6 @@ https://tailwindcss.com/docs/guides/create-react-app
 -> npm i redux react-redux @reduxjs/toolkit
 
 
+## Backend
+-> npm i express mongoose jsonwebtoken bcryptjs dotenv
+-> npm i concurrently nodemon --dev
