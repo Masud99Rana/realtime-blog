@@ -12,8 +12,19 @@ https://tailwindcss.com/docs/guides/create-react-app
 -> npm i react-router-dom axios moment react-hot-toast
 -> npm i redux react-redux @reduxjs/toolkit
 
+-> npm i buffer emoji-picker-react immutable
+-> npm i draft-js draftjs-to-html react-draft-wysiwyg
+-> npm i react-quill react-html-parser 
+-> npm i socket.io-client
 
-## Backend
+=> Problem: react-html-parser 
+-> npm i react-html-parser  --legacy-peer-deps
+// npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+// npm ERR! Fix the upstream dependency conflict, or retry
+// npm ERR! this command with --force, or --legacy-peer-deps
+
+
+## Backend packages
 -> npm i express mongoose jsonwebtoken bcryptjs dotenv
 -> npm i morgan
 -> npm i concurrently nodemon --dev
