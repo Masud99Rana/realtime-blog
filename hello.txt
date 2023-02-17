@@ -17,3 +17,4 @@ https://tailwindcss.com/docs/guides/create-react-app
 -> npm i express mongoose jsonwebtoken bcryptjs dotenv
 -> npm i morgan
 -> npm i concurrently nodemon --dev
+-> npm i socket.io
