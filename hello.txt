@@ -1,0 +1,6 @@
+
+## Install tailwindcss
+https://tailwindcss.com/docs/guides/create-react-app
+
+-> npm install -D tailwindcss postcss autoprefixer
+-> npx tailwindcss init -p
